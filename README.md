@@ -1,1 +1,2 @@
-# scrap
+# sonalow
+# manejo de propiedades JSON
