@@ -6,11 +6,13 @@
   "author": "edu",
   "dependencies": {
     "cheerio": "latest",
+    "cookies": "latest",
     "express": "latest",
     "express-handlebars": "latest",
-    "request": "latest",
-    "cookies":"latest",
-    "mysql":"latest"
+    "lodash": "^4.15.0",
+    "lowdb": "^0.13.1",
+    "mysql": "latest",
+    "request": "latest"
   },
   "scripts": {
     "start": "node server.js"
